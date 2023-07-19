@@ -1,9 +1,5 @@
 package com.wilson.med.api.domain.usuario;
 
-import com.wilson.med.api.domain.endereco.Endereco;
-import com.wilson.med.api.domain.medico.Especialidade;
-import com.wilson.med.api.domain.medico.Medico;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
